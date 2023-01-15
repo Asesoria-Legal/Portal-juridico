@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.489950c1.css",
+    "main.js": "/static/js/main.964fb616.js",
+    "static/js/787.7f808d80.chunk.js": "/static/js/787.7f808d80.chunk.js",
+    "static/media/contacto-fondo.jpg": "/static/media/contacto-fondo.78db5fc82a328b3edc58.jpg",
+    "static/media/nosotros.png": "/static/media/nosotros.c449f83ff991e16db412.png",
+    "static/media/servicio-fondo.jpeg": "/static/media/servicio-fondo.22372b9b64815b6719e0.jpeg",
+    "static/media/nosotros-fondo.jpeg": "/static/media/nosotros-fondo.ea6205a80d86b6ae1ee7.jpeg",
+    "static/media/equipo.jpg": "/static/media/equipo.c1038da971269dbc5bc3.jpg",
+    "static/media/CONSULTAS-VIRTUAL.jpg": "/static/media/CONSULTAS-VIRTUAL.6cd46083fa6848d00899.jpg",
+    "static/media/perfil.jpg": "/static/media/perfil.a58f80d60247bdb2e3e5.jpg",
+    "static/media/bg-contactanos.jpg": "/static/media/bg-contactanos.049e44692db421eb0160.jpg",
+    "index.html": "/index.html",
+    "main.489950c1.css.map": "/static/css/main.489950c1.css.map",
+    "main.964fb616.js.map": "/static/js/main.964fb616.js.map",
+    "787.7f808d80.chunk.js.map": "/static/js/787.7f808d80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.489950c1.css",
+    "static/js/main.964fb616.js"
+  ]
+}

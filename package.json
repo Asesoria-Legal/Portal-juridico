@@ -2,6 +2,7 @@
   "name": "web-nik",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://asesoria-legal.github.io/Portal-juridico/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
@@ -16,6 +17,7 @@
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "antd": "^5.0.3",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-carousel-minimal": "^1.4.1",
     "react-dom": "^18.2.0",
@@ -26,6 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gp-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
